@@ -1,0 +1,18 @@
+.leadsrocks_formidable {
+	background: transparent url('../images/menu-logo.svg') no-repeat center center;
+	height: 22px;
+	width: 26px;
+	display: inline-block;
+	margin-bottom: -7px;
+	margin-right: 5px;
+}
+
+[data-type="leadsrocks"] .nf-action-type {
+	background-repeat: no-repeat;
+	background-size: auto 70%;
+	background-color: #ffffff;
+}
+
+.lr_required {
+	color: red;
+}
